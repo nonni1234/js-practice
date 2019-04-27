@@ -1,0 +1,21 @@
+#div {
+    border-radius: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    height: 15em;
+    width: 15em;
+    background-color: aquamarine;
+}
+.p {
+    align-self: center;
+    margin: 0;
+}
+
+body {
+    background: black;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
